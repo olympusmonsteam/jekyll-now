@@ -11,5 +11,5 @@ Now you can follow us on Twitter:
 
 And you can check a run of one of the qualification tests on our youtube channel:
 
-[![Qualification test](http://img.youtube.com/vi/c4qDe1HKJZs/0.jpg)](http://youtu.be/c4qDe1HKJZs)
+[![Qualification test](http://img.youtube.com/vi/c4qDe1HKJZs/0.jpg)](http://youtu.be/c4qDe1HKJZs){:target="_blank"}
 
