@@ -12,15 +12,6 @@ Website of the Barcelona based [Olympus Mons](https://en.wikipedia.org/wiki/Olym
 table{
     border-collapse: collapse;
     border-spacing: 3;
-    border:2px solid #000000;
-}
-
-th{
-    border:0px solid #000000;
-}
-
-td{
-    border:0px solid #000000;
 }
 
 </style>
