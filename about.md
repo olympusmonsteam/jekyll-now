@@ -14,7 +14,7 @@ table{
 }
 th, td {
     padding: 5px;
-    text-align: middle;
+    text-align: left;
     vertical-align: top;
     border-bottom: 1px solid #ddd;
 }
