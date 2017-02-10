@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Website of the Barcelona based Olympus Mons team for the [NASA Space Robotics Challenge](https://ninesights.ninesigma.com/web/space-robotics-challenge).
+Website of the Barcelona based [Olympus Mons](https://en.wikipedia.org/wiki/Olympus_Mons) team for the [NASA Space Robotics Challenge](https://ninesights.ninesigma.com/web/space-robotics-challenge). 
 
 ### Team members
 
