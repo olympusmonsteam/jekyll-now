@@ -13,3 +13,6 @@ And you can check a run of one of the qualification tests on our [Youtube Channe
 
 [![Qualification test](http://img.youtube.com/vi/c4qDe1HKJZs/0.jpg)](http://youtu.be/c4qDe1HKJZs){:target="_blank"}
 
+<!--more-->
+
+Soon we'll present our team members.
