@@ -10,7 +10,7 @@ Website of the Barcelona based [Olympus Mons](https://en.wikipedia.org/wiki/Olym
 
 
 | Image 	| Name         	| Role        	| Bio         	| Links 	|
-|-------	|--------------	|-------------	|-------------	|-------	|
+|---	|---	|---	|---	|---	|
 | ![Victor](https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/1/000/0a4/02a/3e29050.jpg) 	| Victor Lopez 	| Team Leader 	| Experienced software architect and developer and passionate of new technologies. Interested in challenging projects in the robotics and videogame industry. 	| [LinkedIn](https://www.linkedin.com/in/victorlopezboya), [Github](https://github.com/v-lopez)|
 | ![Sam](https://avatars0.githubusercontent.com/u/1721716) | Sam Pfeiffer | Code gluer	| Robotics engineer, Python enthusiast currently pursing a PhD at University of Technology Sydney.	| [LinkedIn](https://www.linkedin.com/in/sammy-pfeiffer-08971a43), [Github](https://github.com/awesomebytes), [Twitter](http://twitter.com/awesomebytes)|
 | ![Bence](https://avatars2.githubusercontent.com/u/3524577)	| Bence Magyar |             	|             	|       	|
