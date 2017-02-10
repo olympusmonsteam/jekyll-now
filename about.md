@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Website of the Barcelona based Olympus Mons team for the [NASA Space Robotics Challenge](https://ninesights.ninesigma.com/web/space-robotics-challenge).
 
-### More Information
+### Team members
 
-A place to include any other types of information that you'd like to include about yourself.
+Soon.
 
-### Contact me
+### Contact us
 
-[email@domain.com](mailto:email@domain.com)
+[olympusmonsteam at gmail](mailto:olympusmonsteam@gmail.com)
+[olympusmonsteam at twitter](http://twitter.com/olympusmonsteam)
