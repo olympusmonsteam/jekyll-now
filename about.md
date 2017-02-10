@@ -8,6 +8,21 @@ Website of the Barcelona based [Olympus Mons](https://en.wikipedia.org/wiki/Olym
 
 ### Team members
 
+<style>
+table{
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:2px solid #ff0000;
+}
+
+th{
+    border:2px solid #000000;
+}
+
+td{
+    border:1px solid #000000;
+}
+</style>
 
 | Image 	| Name         	| Role        	| Bio         	| Links 	|
 |---	|---	|---	|---	|---	|
