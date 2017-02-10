@@ -7,14 +7,9 @@ layout: default
     <article class="post">
 
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-
-      {% if post.content contains site.excerpt_separator %}
-        {{ post.excerpt }}
-        <a href="{{ post.url }}">Read More</a>
-      {% else %}
-        {{ post.content }}
-      {% endif %}
       
+        {{ post.content }}
+
     </article>
   {% endfor %}
 </div>
