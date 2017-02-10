@@ -10,8 +10,7 @@ Website of the Barcelona based [Olympus Mons](https://en.wikipedia.org/wiki/Olym
 
 <style>
 table{
-    border-collapse: collapse;
-    border-spacing: 3;
+    padding: 5px;
 }
 
 </style>
