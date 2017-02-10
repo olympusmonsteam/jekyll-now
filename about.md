@@ -27,7 +27,7 @@ th, td {
 | ![Bence](https://avatars2.githubusercontent.com/u/3524577)	| **Bence Magyar** |             	|             	|       	|
 | ![Enrique](https://avatars2.githubusercontent.com/u/382167)   	| **Enrique Fernandez**             	|             	|             	|       	|
 | ![Hilario](https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/4/005/09b/3f2/08b3b20.jpg) | **Hilario Tome**             	|             	|             	|       	|
-| ![Jeremie](https://lh5.googleusercontent.com/-G59isqYdbQk/AAAAAAAAAAI/AAAAAAAABao/VE411jwg0mw/photo.jpg)      	| ***Jeremie Deray**             	|             	|             	|       	|
+| ![Jeremie](https://lh5.googleusercontent.com/-G59isqYdbQk/AAAAAAAAAAI/AAAAAAAABao/VE411jwg0mw/photo.jpg)      	| **Jeremie Deray**             	|             	|             	|       	|
 |  ![Jordan](https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/4/005/0a4/3e5/35d4e7c.jpg)     	| **Jordan Palacios**             	|             	|             	|       	|
 |  ![Luca](https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/5/005/081/1c1/1a2e287.jpg)     	| **Luca Marchionni**             	|             	|             	|       	|
 |  ![Davide](http://robotlab.typepad.com/photos/uncategorized/2008/05/02/reemb_davide_2.jpg)     	| **Davide Faconti**            	|             	|             	|       	|
