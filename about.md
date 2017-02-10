@@ -15,6 +15,7 @@ table{
 th, td {
     padding: 5px;
     text-align: middle;
+    vertical-align: top;
     border-bottom: 1px solid #ddd;
 }
 
