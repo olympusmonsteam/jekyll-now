@@ -30,7 +30,6 @@ th, td {
 | ![Jeremie](https://lh5.googleusercontent.com/-G59isqYdbQk/AAAAAAAAAAI/AAAAAAAABao/VE411jwg0mw/photo.jpg)      	| **Jeremie Deray**             	|             	|             	|       	|
 |  ![Jordan](https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/4/005/0a4/3e5/35d4e7c.jpg)     	| **Jordan Palacios**             	|             	|             	|       	|
 |  ![Luca](https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/5/005/081/1c1/1a2e287.jpg)     	| **Luca Marchionni**             	|             	|             	|       	|
-|  ![Davide](http://robotlab.typepad.com/photos/uncategorized/2008/05/02/reemb_davide_2.jpg)     	| **Davide Faconti**            	|             	|             	|       	|
 | ![Procopio](https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAinAAAAJDUzNjAyNThhLWFhYWEtNDg0Yi05ZWNhLWUzMjI0ZTI1MDUxMw.jpg)      	| **Procopio Stein**           	|             	|             	|       	|
 |  ![Adria](https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAajAAAAJDk5YTIzNmRiLWU4N2EtNDdiMS1iZmJmLTBjMjU4ZTc2MmE0Ng.jpg)     	| **Adria Roig**            	|             	|             	|       	|
 
@@ -39,7 +38,10 @@ For a new row add:
 |       	|              	|             	|             	|       	|
 --->
 
-
+<!--
+Not a member, so taken off, maybe we can add a Thank you note?
+|  ![Davide](http://robotlab.typepad.com/photos/uncategorized/2008/05/02/reemb_davide_2.jpg)     	| **Davide Faconti**            	|             	|             	|       	|
+-->
 
 
 ### Contact us
