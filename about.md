@@ -12,6 +12,6 @@ Soon.
 
 ### Contact us
 
-[olympusmonsteam at gmail](mailto:olympusmonsteam@gmail.com)
+[Olympus Mons Team at Gmail](mailto:olympusmonsteam@gmail.com)
 
-[olympusmonsteam at twitter](http://twitter.com/olympusmonsteam)
+[Olympus Mons Team at Twitter](http://twitter.com/olympusmonsteam)
