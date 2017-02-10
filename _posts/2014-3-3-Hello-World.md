@@ -1,10 +1,15 @@
 ---
 layout: post
-title: You're up and running!
+title: Hello world! We are in the finals!
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+We are *Team Olympus Mons* and [we are in the finals](https://twitter.com/NASAPrize/status/826544943787286528) of NASA's Space Robotics Challenge!
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+![NASA SRC Finalists](https://raw.githubusercontent.com/olympusmonsteam/olympusmonsteam.github.io/master/images/nasa_src_finalists.jpg)
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+Now you can follow us on Twitter:
+
+And you can check a run of one of the qualification tests on our youtube channel:
+
+[![Qualification test](http://img.youtube.com/vi/c4qDe1HKJZs/0.jpg)](http://youtu.be/c4qDe1HKJZs)
+
