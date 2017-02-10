@@ -11,8 +11,13 @@ Now you can follow us on Twitter: [@OlympusMonsTeam](http://twitter.com/OlympusM
 
 And you can check a run of one of the qualification tests on our [Youtube Channel](https://www.youtube.com/channel/UCo4w_CtPd3ccoNlIwnhjCCQ):
 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c4qDe1HKJZs" frameborder="0" allowfullscreen></iframe>
+
+<!--
 [![Qualification test](http://img.youtube.com/vi/c4qDe1HKJZs/0.jpg)](http://youtu.be/c4qDe1HKJZs){:target="_blank"}
+-->
 
 <!--more-->
 
-Soon we'll present our team members.
+Meet our team members at our [About page](https://olympusmonsteam.github.io/about/).
