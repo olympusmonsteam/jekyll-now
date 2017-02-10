@@ -23,6 +23,7 @@ td{
     border:1px solid #000000;
 }
 
+</style>
 
 | Image 	| Name         	| Role        	| Bio         	| Links 	|
 |---	|---	|---	|---	|---	|
@@ -43,7 +44,7 @@ For a new row add:
 |       	|              	|             	|             	|       	|
 --->
 
-</style>
+
 
 
 ### Contact us
