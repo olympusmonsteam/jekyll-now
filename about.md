@@ -12,6 +12,10 @@ Website of the Barcelona based [Olympus Mons](https://en.wikipedia.org/wiki/Olym
 table{
     padding: 5px;
 }
+th, td {
+    padding: 5px;
+    text-align: middle;
+}
 
 </style>
 
